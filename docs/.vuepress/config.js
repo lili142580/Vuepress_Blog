@@ -29,7 +29,7 @@ module.exports = {
       nav: [
         { text: 'Home', link: '/', icon: 'reco-home' },
         { text: 'TimeLine', link: '/timeline/', icon: 'reco-date' },
-        { text: 'GitHub', link: 'https://github.com/smallsunnyfox/vuepress-theme-reco-starter', icon: 'reco-github' }
+        { text: 'GitHub', link: 'https://github.com/lili142580/Vuepress_blog', icon: 'reco-github' }
       ],
       // 博客配置
       blogConfig: {
