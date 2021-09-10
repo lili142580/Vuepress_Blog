@@ -15,7 +15,7 @@ categories:
 ## 基本原理
 > Node.js由事件循环(vent Loop)分发I/o人，最终工作先出(Work Thred)将任务丢掉线程池(Thredad Pool)里去执行。而事件循环只要等待执行结果就可以了
 > 
-![原理图](../../../.vuepress/public/原理图.png)
+![原理图](./../../../.vuepress/public/yuanlitu.png)
 
 ## Node.js的特点
 - 事件驱动
