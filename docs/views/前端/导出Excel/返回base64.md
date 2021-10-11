@@ -1,3 +1,14 @@
+---
+title: 返回Base64，导出文件
+date: 2021-08-30 08:00:00
+sidebar: auto
+tags:
+ - 前端
+ - 导出文件
+categories:
+ - 导出文件
+---
+
 # 返回Base64，导出文件
 ```js
 //将base64转成Uint8Array
