@@ -1,5 +1,5 @@
 ---
-title: 认识JavaScript
+title: JavaScript高级语法
 date: 2022-3-21 08:00:00
 sidebar: auto
 tags:
